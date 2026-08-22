@@ -12,7 +12,7 @@
 
 ---
 
-B.Tech CS student (CGPA 8.84) at MLR Institute of Technology, graduating 2027. I work mainly in Python, SQL, Power BI, and Excel — and I like the parts of analytics most people skip: cleaning ugly data, checking whether a trend is actually real before I trust it, and making sure a dashboard answers the question someone actually asked.
+Data Analyst with a B.Tech in Computer Science (CGPA: 8.84) from MLR Institute of Technology, graduating 2027. Hands-on experience in data cleaning, exploratory data analysis, statistical analysis, and dashboard development — with measurable business insights delivered across supply chain, customer churn, and HR analytics, including a $2.1M profit-loss quantification.
 
 ## 🛠️ Tech Stack
 
@@ -26,29 +26,56 @@ B.Tech CS student (CGPA 8.84) at MLR Institute of Technology, graduating 2027. I
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 Projects Worth Your Time
+**Data Analysis:** Data Cleaning · Data Wrangling · EDA · Data Accuracy Assessment · Anomaly Detection · Statistical Analysis · Hypothesis Testing · Data Modeling
+**Visualization & BI:** Power BI · Tableau · DAX · Dashboard Development · KPI Reporting
+
+## 📊 Projects
 
 ### [Supply Chain Late-Delivery Risk Analysis](https://github.com/AnalyticsForge13/Supply_Chain_Analysis)
 `Python` `Pandas` `Scikit-learn`
 
-Cleaned and analyzed 180K+ order records to find that **54.7%** of orders were shipping late, concentrated in specific regions and shipping modes. Quantified **$2.1M** in profit loss from those delays (28% of total profit) and built a Random Forest classifier — with SMOTE for class imbalance — reaching **77% precision** flagging at-risk orders.
+Cleaned and analyzed 180K+ order records to find that **54.7%** of orders were shipping late, concentrated in specific regions and shipping modes. Quantified **$2.1M** in profit loss from delayed shipments (28% of $7.5M total profit) and built a Random Forest classifier with SMOTE class balancing, reaching **77% precision** in flagging at-risk orders.
+
+### Customer Churn Analysis
+`Python` `SQL` `Power BI`
+
+Identified pricing pressure as a top churn driver — **$74.42 vs. $61.27** average monthly charges — by cleaning, segmenting, and analyzing 7,000+ customer records. Surfaced a **26.5%** overall churn rate, including **42.7%** for month-to-month vs. **2.8%** for two-year contracts, via a Power BI dashboard built on top of EDA and feature engineering.
+
+*(repo link coming soon)*
 
 ### [HR Attrition Dashboard](https://github.com/AnalyticsForge13/HR-Analytics-Dashboard)
 `Power BI` `DAX`
 
-Built a DAX-driven Power BI dashboard segmenting 1,470 employees by role and tenure. Surfaced a **16.1%** company-wide attrition rate — **39.8%** among Sales Reps, more than double the average — with 6 live KPI cards tracking headcount, attrition, tenure, and salary in real time.
+Built a DAX-driven Power BI dashboard segmenting 1,470 employees by job role and tenure. Surfaced a **16.1%** company-wide attrition rate — **39.8%** among Sales Representatives, more than 2x the average — with 6 live KPI cards tracking headcount, attrition rate, average tenure, and average salary.
 
-### [E-Commerce Sales Dashboard](https://github.com/AnalyticsForge13/E-Commerce-Sales-Dashboard)
-*(Write-up coming soon)*
+### Vendor Performance Analytics
+`SQL` `Python` `Power BI`
 
-### [Bike Sales Excel Dashboard](https://github.com/AnalyticsForge13/Bike-Sales-Excel-Dashboard)
-*(Write-up coming soon)*
+Evaluated supplier trends and procurement metrics by writing SQL queries and Python scripts to clean and analyze vendor performance data. Built an interactive Power BI dashboard tracking vendor KPIs and operational metrics to support supplier evaluation and business reporting.
 
-## 🚀 Currently
+*(repo link coming soon)*
 
-- Finishing my portfolio so every project above has a full write-up, not just a dashboard file
-- Sharpening SQL and statistical analysis for data-heavy roles
-- Applying to remote and entry-level Data Analyst roles at MNCs
+## 💼 Industry Experience
+
+**Data Analytics Job Simulation** — *Deloitte*, 2025
+Produced dashboard-ready client reports by assessing data accuracy and classifying datasets, following Deloitte's real-world analytics workflow.
+
+**Quantitative Research Job Simulation** — *JPMorgan Chase & Co.*, 2026
+Quantified the business impact of trading strategy ideas by applying data analysis and hypothesis-testing methods used in live quant research.
+
+**Advisors & Consulting Services Job Simulation** — *Mastercard*, 2026
+Strengthened client-facing recommendations by analyzing business data and presenting findings for stakeholder decision-making.
+
+**Data Visualisation & GenAI Job Simulation** — *Tata*, 2026
+Translated business questions into actionable insights by building interactive visualizations and applying generative AI tools, following BI design principles.
+
+**Data Analytics Virtual Experience Program** — *Quantium*, 2026
+Supported category and pricing decisions by performing retail data analysis and translating findings into commercial recommendations.
+
+## 🎓 Education
+
+**MLR Institute of Technology** — B.Tech, Computer Science & Engineering, CGPA: 8.84
+Hyderabad, India · 2023 – 2027 (Expected)
 
 ## 📫 Let's Talk
 
